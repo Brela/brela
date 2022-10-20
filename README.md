@@ -16,7 +16,7 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on my [portfolio](https://jovial-malabi-e20d01.netlify.app/#one) and my [daily codewars challenges](https://quiet-bienenstitch-3ad8ad.netlify.app//)
+- 🔭 I’m currently working on [my portfolio](https://jovial-malabi-e20d01.netlify.app/) and [daily codewars challenges](https://quiet-bienenstitch-3ad8ad.netlify.app//) blog
 
 - 👯 I’m looking to collaborate on **open source projects**
 
