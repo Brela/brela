@@ -16,7 +16,7 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on [my portfolio](https://brela-portfolio.app/) and [daily codewars challenges](https://brela-codewars.netlify.app//) blog
+- 🔭 I’m currently working on [my portfolio](https://brela-portfolio.netlify.app/) and [daily codewars challenges](https://brela-codewars.netlify.app//) blog
 
 - 👯 I’m looking to collaborate on **open source projects**
 
