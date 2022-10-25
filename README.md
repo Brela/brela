@@ -16,15 +16,15 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on [my portfolio](https://brela-portfolio.netlify.app/) and [daily codewars challenges](https://brela-codewars.netlify.app//) blog
+- 👨‍💻 I’m currently working on [my portfolio](https://brela-portfolio.netlify.app/) and [daily codewars challenges](https://brela-codewars.netlify.app//) blog
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 📖 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m happy to chat or answer any questions, feel welcome to **reach out**! 
+- 💬 I’m happy to chat or answer any questions, feel welcome to **reach out**! 
 
 <!-- - 👨‍💻 All of my projects are available at []() -->
 
-- 📫 How to reach me **claybreland1@gmail.com**
+- 📧 How to reach me **claybreland1@gmail.com**
 
 <!-- ## Projects:
 
