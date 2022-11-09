@@ -18,11 +18,11 @@
 
 - 👨‍💻 I’m currently working on [website freelancing](https://brela-portfolio.netlify.app/), [daily codewars challenges](https://brela-codewars.netlify.app//), and utilizing APIs.
 
-- 📖 I’m looking to collaborate on **open source projects**
+- 📖 Looking to collaborate on **open source projects**
 
-- 💬 I’m happy to chat or answer any questions, feel welcome to **reach out**! 
+- 💬 Happy to chat or answer any questions, feel welcome to **reach out**! 
 
-<!-- - 👨‍💻 All of my projects are available at []() -->
+- 👨‍💻 Excited to learn React
 
 - 📧 How to reach me **claybreland1@gmail.com**
 
