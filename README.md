@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi 👋, I'm Clayton Breland</h1>
-  <h3>A full-stack software engineer at #100Devs</h3>
+  <h3>A software engineer at #100Devs</h3>
   <a href="https://brela-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
@@ -16,13 +16,13 @@
 
 ## About Me:
 
-- 👨‍💻 I’m currently working on [website freelancing](https://brela-portfolio.netlify.app/), [daily codewars challenges](https://brela-codewars.netlify.app//), and utilizing APIs.
+- 👨‍💻 I’m currently working on [website freelancing](https://brela-portfolio.netlify.app/), [daily codewars challenges](https://brela-codewars.netlify.app//).
 
 - 📖 Looking to collaborate on **open source projects**
 
 - 💬 Happy to chat or answer any questions, feel welcome to **reach out**! 
 
-- 👨‍💻 Excited to learn React
+- 👨‍💻 Excited to make an app with React
 
 - 📧 How to reach me **claybreland1@gmail.com**
 
