@@ -18,7 +18,12 @@
 
 - ⚡ Fun fact **10,000 years ago, North America was home to ground sloths the size of elephants, sabertooth cats, and beavers the size of bears.**
 
-- 📫 How to reach me: **claybreland1@gmail.com**, <a href="https://linkedin.com/in/https://www.linkedin.com/in/clayton-breland/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/clayton-breland/" height="30" width="40" /></a><a href="https://twitter.com/https://twitter.com/claybreland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/claybreland" height="30" width="40" /></a>
+- 📫 How to reach me: **claybreland1@gmail.com**, <a href="https://www.linkedin.com/in/clayton-breland/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=c9dde1&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/ClayBreland" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=c9dde1&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
 
 
 <!-- ## Projects:
@@ -78,11 +83,6 @@
   <a href="https://brela-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/clayton-breland/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/ClayBreland" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
+  
 
 </div>
