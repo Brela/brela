@@ -15,7 +15,7 @@
 
 ## About Me:
 
-- 👨‍💻 I’m currently [freelance web developing](https://brela-portfolio.netlify.app/), learning, and completing a coding challenge every day: [daily codewars challenges](https://brela-codewars.netlify.app//).
+- 👨‍💻 Currently [freelance web developing](https://brela-portfolio.netlify.app/), learning, and completing a coding challenge every day: [daily codewars challenges](https://brela-codewars.netlify.app//).
 
 - 📖 Looking to collaborate on **open source projects**
 
