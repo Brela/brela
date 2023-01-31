@@ -15,15 +15,15 @@
 
 ## About Me:
 
-- 👨‍💻 Currently [freelance web developing](https://brela-portfolio.netlify.app/), mastering JavaScript, and completing a [daily coding challenge](https://brela-codewars.netlify.app//).
+- 🔭 Currently working on [freelance web developing](https://brela-portfolio.netlify.app/), mastering JavaScript, and completing [daily coding challenges](https://brela-codewars.netlify.app//).
 
-- 📖 Looking to collaborate on **open source projects**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Happy to chat or answer any questions, feel welcome to **reach out**! 
+- 💬 Ask me about **aircraft in the USAF**
 
-- 👨‍💻 Excited to make an app with React
+- ⚡ Fun fact **10,000 years ago, North America was home to ground sloths the size of elephants, sabertooth cats, and beavers the size of bears.**
 
-- 📧 How to reach me **claybreland1@gmail.com**
+- 📫 How to reach me **claybreland1@gmail.com**
 
 <!-- ## Projects:
 
