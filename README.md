@@ -10,13 +10,13 @@
 
 ## About Me:
 
-- 🔭 Currently working on [freelance web developing](https://brela-portfolio.netlify.app/), mastering JavaScript, and completing [daily coding challenges](https://brela-codewars.netlify.app//).
+- 🔭 Currently working on **[freelance web developing](https://brela-portfolio.netlify.app/)**, mastering JavaScript, and completing **[daily coding challenges](https://brela-codewars.netlify.app//)**
 
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **aircraft in the USAF**
 
-- ⚡ Fun fact **10,000 years ago, North America was home to ground sloths the size of elephants, sabertooth cats, and beavers the size of bears.**
+- ⚡ Fun fact **10,000 years ago**, North America was home to ground sloths the size of elephants, sabertooth cats, and beavers the size of bears.
 
 - 📫 How to reach me **claybreland1@gmail.com**
 
@@ -73,7 +73,7 @@
 <div align="center">
 
   <a href="https://brela-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=91b5bd&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/clayton-breland/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
