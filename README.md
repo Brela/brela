@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h1>Hi 👋, I'm Clayton Breland</h1>
-  <h3>A software engineer at #100Devs</h3>
+  <h1>Clayton Breland</h1>
+  <h3>a productive software engineer</h3>
   <a href="https://brela-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
