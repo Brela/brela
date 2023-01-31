@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact: **10,000 years ago**, North America was home to ground sloths the size of elephants, sabertooth cats, and beavers the size of bears. Oh, a fun fact about me? I've been to **[32 states](https://brela-portfolio.netlify.app/)**
 
-- 📫 How to reach me **claybreland1@gmail.com**
+- 📫 How to reach me **claybreland1@gmail.com**, or via socials below
 
 <!-- ## Projects:
 <table bordercolor="#66b2b2">
