@@ -64,22 +64,8 @@
     </td>
   </tr>
 </table> -->
-
-## Languages and Tools:
-<p align="left">
-<!-- <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/> -->
-<img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=4a935c&style=plastic&logo=javascript"/>
-<!-- <img src="https://img.shields.io/static/v1?label=|&message=NODEJS&color=4a935c&style=plastic&logo=nodejs"/> 
-<img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=4a935c&style=plastic&logo=mongodb"/>
-<img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=4a935c&style=plastic&logo=bootstrap"/>
-<img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=4a935c&style=plastic&logo=express"/> -->
-<img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=4a935c&style=plastic&logo=html5"/>
-<img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=4a935c&style=plastic&logo=css3"/> 
-<img src="https://img.shields.io/static/v1?label=|&message=GIT&color=4a935c&style=plastic&logo=git"/> 
-<img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=4a935c&style=plastic&logo=python"/>
-<!-- <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=4a935c&style=plastic&logo=solidity"/>
-<img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=4a935c&style=plastic&logo=linux"/> -->
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 ## My Stats:
 
@@ -111,5 +97,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/clayton-breland/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/clayton-breland/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
