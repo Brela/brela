@@ -69,7 +69,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brela&" alt="Brela" /></p>
 </div>
-
+<div visibility="hidden">.</div>
 <div align="center">
 
   <a href="https://brela-portfolio.netlify.app/" target="_blank">
