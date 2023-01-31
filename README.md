@@ -18,10 +18,9 @@
 
 - ⚡ Fun fact **10,000 years ago, North America was home to ground sloths the size of elephants, sabertooth cats, and beavers the size of bears.**
 
-- 📫 How to reach me: **claybreland1@gmail.com**, **<a href="https://www.linkedin.com/in/clayton-breland/" target="_blank" rel="noreferrer">Linked-In</a>**, **[twitter]**(https://twitter.com/ClayBreland)
+- 📫 How to reach me **claybreland1@gmail.com**
 
 <!-- ## Projects:
-
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -63,10 +62,9 @@
 
 
 <div align="center">
-  <h4>GitHub Stats</h4>
+### GitHub Stats
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brela&show_icons=true&locale=en&layout=compact" alt="brela" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brela&show_icons=true&locale=en" alt="Brela" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brela&" alt="Brela" /></p>
@@ -77,6 +75,11 @@
   <a href="https://brela-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  
+  <a href="https://www.linkedin.com/in/clayton-breland/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/ClayBreland" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
 
 </div>
