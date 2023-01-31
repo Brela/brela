@@ -62,7 +62,7 @@
 
 
 <div align="center">
-### GitHub Stats
+<h4>GitHub Stats</h4>
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brela&show_icons=true&locale=en&layout=compact" alt="brela" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brela&show_icons=true&locale=en" alt="Brela" /></p> -->
@@ -73,7 +73,7 @@
 <div align="center">
 
   <a href="https://brela-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=91b5bd&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/clayton-breland/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
