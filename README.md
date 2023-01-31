@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <h1>Clayton Breland</h1>
-  <h3>a productive software engineer</h3>
+  <h3>Clayton Breland - a productive software engineer</h3>
   <a href="https://brela-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
@@ -16,7 +15,7 @@
 
 ## About Me:
 
-- 👨‍💻 I’m currently working on [website freelancing](https://brela-portfolio.netlify.app/), [daily codewars challenges](https://brela-codewars.netlify.app//).
+- 👨‍💻 I’m currently [freelance web developing](https://brela-portfolio.netlify.app/), learning, and completing a coding challenge every day: [daily codewars challenges](https://brela-codewars.netlify.app//).
 
 - 📖 Looking to collaborate on **open source projects**
 
