@@ -10,7 +10,7 @@
 
 ## About Me:
 
-- 🔭 Currently working on **[freelance web developing](https://brela-portfolio.netlify.app/)**, mastering JavaScript, and completing **[daily coding challenges](https://brela-codewars.netlify.app//)**
+- 🔭 Currently working on **[freelance web developing](https://brela-portfolio.netlify.app/)**, mastering JavaScript, and completing **[daily coding challenges]([https://brela-codewars.netlify.app//](https://github.com/Brela/coding-challenges/tree/main/JavaScript/2023))**
 
 - 🌱 I’m currently learning **React.js**
 
