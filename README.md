@@ -12,7 +12,7 @@
 
 - 🔭 Currently working on **[freelance web developing](https://brela-portfolio.netlify.app/)**, mastering JavaScript, and completing **[daily coding challenges](https://github.com/Brela/coding-challenges/tree/main/JavaScript/2023)**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **Next.js**
 
 - 💬 Ask me about **aircraft in the USAF**
 
