@@ -10,13 +10,13 @@
 
 ## About Me:
 
-- 🔭 Currently working on **[freelance web developing](https://brela-portfolio.netlify.app/)**, mastering JavaScript, and completing **[daily coding challenges](https://github.com/Brela/coding-challenges/tree/main/JavaScript/2023)**
+- 🔭 Currently working on freelance web developing
 
-- 🌱 I’m currently learning **React.js** and **Next.js**
+<!-- - 🌱 I’m currently learning **React.js** and **Next.js** -->
 
 - 💬 Ask me about **aircraft in the USAF**
 
-- ⚡ Fun fact: **10,000 years ago**, North America was home to ground sloths the size of elephants, sabertooth cats, and beavers the size of bears. Oh, a fun fact about me? I've been to 32 states :)
+<!-- - ⚡ Fun fact: **10,000 years ago**, North America was home to ground sloths the size of elephants, sabertooth cats, and beavers the size of bears. Oh, a fun fact about me? I've been to 32 states :) -->
 
 - 📫 How to reach me **claybreland1@gmail.com**, or via socials below
 
