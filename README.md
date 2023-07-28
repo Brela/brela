@@ -59,7 +59,12 @@
   </tr>
 </table> -->
 
-
+  <section align="left">
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://i.ibb.co/99kGDGJ/Screenshot-2023-07-28-at-11-09-24-AM.png" alt="real github contributions green squares" width="620" height="400"/>
+</a>
+</section>
+  <br>
 
 <div align="center">
 <h4>GitHub Stats</h4>
