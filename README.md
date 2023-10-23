@@ -67,6 +67,7 @@
 </table> -->
 
 <div align="center">
+  <h2> </h2>
   <p> Picture of my Actual Gihub Contributions ( since work repo is private, the green squares don't show up to public )</p>
   <section align="center">
 <a href="" target="_blank" rel="noreferrer">
