@@ -15,7 +15,7 @@
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brela&label=Profile%20views&color=0e75b6&style=flat" alt="Brela" /> </p> -->
-
+<br/>
 
 - 🔭 Working at ChromeLot building a SAAS for car dealerships
 
