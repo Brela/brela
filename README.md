@@ -19,7 +19,7 @@
 <br>
   
 - 🔭 I work at ChromeLot building a SAAS for car dealerships, currently working on this photo overlay editor:
-  <img src="https://i.ibb.co/F7Xf8CN/overlay-Editor.png" alt="overlay-Editor" width="333" height="250" />
+  <img src="https://i.ibb.co/F7Xf8CN/overlay-Editor.png" alt="overlay-Editor" width="333" height="300" />
 
 - 🌱 Currently learning testing with Cypress
 
