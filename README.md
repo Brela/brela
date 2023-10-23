@@ -15,10 +15,9 @@
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brela&label=Profile%20views&color=0e75b6&style=flat" alt="Brela" /> </p> -->
-<div style="margin-top: 20px;">
+<br>
+<br>
   
-
-
 - 🔭 Working at ChromeLot building a SAAS for car dealerships
 
 <!-- - 🌱 I’m currently learning **React.js** and **Next.js** -->
@@ -28,7 +27,7 @@
 <!-- - ⚡ Fun fact: **10,000 years ago**, North America was home to ground sloths the size of elephants, sabertooth cats, and beavers the size of bears. Oh, a fun fact about me? I've been to 32 states :) -->
 
 - 📫 How to reach me **claybreland1@gmail.com**, or via socials below
-</div>
+
 
 <!-- ## Projects:
 <table bordercolor="#66b2b2">
