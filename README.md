@@ -74,8 +74,6 @@
 <a href="" target="_blank" rel="noreferrer">
 
    <img src="https://i.ibb.co/x5CDmrK/green-Squares10-23.png" alt="real github contributions green squares" width="620" height="400" />
- 
-  <img src="https://i.ibb.co/99kGDGJ/Screenshot-2023-07-28-at-11-09-24-AM.png" alt="real github contributions green squares" width="620" height="400" />
 </a>
 </section>
   </div>
