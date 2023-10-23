@@ -18,9 +18,10 @@
 <br>
 <br>
   
-- 🔭 Working at ChromeLot building a SAAS for car dealerships
+- 🔭 I work at ChromeLot building a SAAS for car dealerships, currently working on this photo overlay editor:
+  <img src="https://i.ibb.co/F7Xf8CN/overlay-Editor.png" alt="overlay-Editor" width="333" height="250" />
 
-<!-- - 🌱 I’m currently learning **React.js** and **Next.js** -->
+- 🌱 Currently learning testing with Cypress
 
 - 💬 Ask me about **aircraft in the USAF**
 
@@ -74,7 +75,7 @@
   <section align="center">
 <a href="" target="_blank" rel="noreferrer">
 
-   <img src="https://i.ibb.co/x5CDmrK/green-Squares10-23.png" alt="real github contributions green squares" width="620" height="400" />
+   <img src="https://i.ibb.co/x5CDmrK/green-Squares10-23.png" alt="real github contributions green squares" width="405" height="275" />
 </a>
 </section>
   </div>
