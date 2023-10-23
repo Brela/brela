@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Clayton Breland - a productive software engineer </h1>
+  <h1>Clayton Breland - a Productive Software Engineer </h1>
 </div>
 <div align="center">
 <p align="center"> 
