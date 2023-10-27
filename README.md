@@ -18,9 +18,9 @@
 <br>
 <br>
   
-- 🔭 I work at ChromeLot building a SAAS for car dealerships. Currently working on a photo overlay editor using the fabricJS React library
+- 🔭 I work at ChromeLot building a SAAS for car dealerships. Currently working on a photo overlay creator/ editor using the fabricJS React library
 
-- 🌱 Currently learning testing with Cypress
+- 🌱 Currently learning NextJS testing with Cypress
 
 - 💬 Ask me about **aircraft in the USAF**
 
