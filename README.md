@@ -68,14 +68,7 @@
   </tr>
 </table> -->
 
-<div align="center">
-  <h2> </h2>
-  <p> Picture of my Actual Gihub Contributions ( since work repo is private, the green squares don't show up to public )</p>
-  <section align="center">
-<a href="" target="_blank" rel="noreferrer">
-
-   <img src="https://i.ibb.co/x5CDmrK/green-Squares10-23.png" alt="real github contributions green squares" width="405" height="275" />
-</a>
+ 
 </section>
   </div>
   <br>
@@ -88,9 +81,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brela&" alt="Brela" /></p>
 </div>
-<div>
-<br>
-</div>
+
 <div align="center">
 
   <a href="https://clayton-breland.netlify.app/" target="_blank">
