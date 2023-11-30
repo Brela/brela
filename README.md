@@ -26,7 +26,7 @@
   
 - 🔭 At ChromeLot, we are building a SAAS for car dealerships. Currently working on a photo overlay creator/ editor using the fabricJS React library
 
-- 🌱 Currently researching various test
+- 🌱 Currently researching various testing libraries
 
 - 💬 Ask me about **aircraft in the USAF**
 
