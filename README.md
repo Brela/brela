@@ -3,6 +3,7 @@
 **Hi**, I'm Clayton Breland. I **make complex features look simple** with organized code and **streamlined, modern UIs**. Drawing on my experience with troubleshooting and repairing F-15 weapons systems in the US Air Force, I offer a valuable perspective in software engineering. My focus is on adhering to best practices, **maintaining consitent communication with the team**, and **diligently working to accomplish the mission at hand**.
 <p align="center">Please feel free to reach out if you have any questions!
 <br/>
+    <br/>
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
