@@ -27,9 +27,9 @@
 
 - 🌱 Currently researching various testing libraries
 
-- 💬 Ask me about **aircraft in the USAF**
+- 💬 Ask me about **aircraft in the USAF**. Jets are awesome!
 
-- 📫 How to reach me **claybreland1@gmail.com**, or via socials below
+- 📫 **claybreland1@gmail.com**
 
 <!-- ## Projects:
 <table bordercolor="#66b2b2">
