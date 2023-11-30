@@ -1,7 +1,7 @@
 <img src="images/Banner.png" alt="Profile Banner" width="100%">
 
 **Hi**, I'm Clayton Breland. I **make complex features look simple** with organized code and **streamlined, modern UIs**. Drawing on my experience with troubleshooting and repairing F-15 weapons systems in the US Air Force, I offer a valuable perspective in software engineering. My focus is on adhering to best practices, **maintaining consitent communication with the team**, and **diligently working to accomplish the mission at hand**.
-<p align="center">Please feel free to reach out if you have any questions!
+
 <br/>
     <br/>
 <h2 align="center">Languages and Technologies</h2>
@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **aircraft in the USAF**. Jets are awesome!
 
-- 📫 **claybreland1@gmail.com**
+- Please feel free to reach out if you have any questions! 📫 **claybreland1@gmail.com**
 
 <!-- ## Projects:
 <table bordercolor="#66b2b2">
