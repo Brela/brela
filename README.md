@@ -1,24 +1,30 @@
-<div id="header" align="center">
-  <h1>Clayton Breland - a Productive Software Engineer </h1>
-</div>
-<div align="center">
-<p align="center"> 
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+
+
+<h3 align="center">Hi, I'm Clayton Breland, an experienced software engineer with a proven track record of delivering full-stack applications. Drawing on my experience with troubleshooting and repairing F-15 weapons systems in the US Air Force, I offer a valuable perspective in software engineering. My focus is on adhering to best practices, writing efficient code, maintining consitent communication with the team, and diligently working to accomplish the mission at hand.
+<h3 align="center">Please feel free to reach out if you have any questions!</h3>
+<br/>
+<h2 align="center">Languages and Technologies</h2>
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=cdf998&style=plastic&logo=node.js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <br>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=98bf53&style=plastic&logo=postgresql"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+
 </p>
-</div>
+<br/>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brela&label=Profile%20views&color=0e75b6&style=flat" alt="Brela" /> </p> -->
 <br>
 <br>
   
-- 🔭 I work at ChromeLot building a SAAS for car dealerships. Currently working on a photo overlay creator/ editor using the fabricJS React library
+- 🔭 At ChromeLot, we are building a SAAS for car dealerships. Currently working on a photo overlay creator/ editor using the fabricJS React library
 
 - 🌱 Currently learning NextJS testing with Cypress
 
