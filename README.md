@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/5NbXUUJ" width="100%">
+<img src="images/Banner.png" alt="Profile Banner" width="100%">
 
 <h3 align="center">Hi, I'm Clayton Breland, an experienced software engineer with a proven track record of delivering full-stack applications. Drawing on my experience with troubleshooting and repairing F-15 weapons systems in the US Air Force, I offer a valuable perspective in software engineering. My focus is on adhering to best practices, maintining consitent communication with the team, and diligently working to accomplish the mission at hand.
 <h3 align="center">Please feel free to reach out if you have any questions!</h3>
@@ -19,7 +19,6 @@
 </p>
 <br/>
 
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brela&label=Profile%20views&color=0e75b6&style=flat" alt="Brela" /> </p> -->
 <br>
 <br>
@@ -32,10 +31,9 @@
 
 - 📫 How to reach me **claybreland1@gmail.com**, or via socials below
 
-
 <!-- ## Projects:
 <table bordercolor="#66b2b2">
-  
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">first</h3>
@@ -45,10 +43,10 @@
         </a>
         <br />
         <p align="center">
-          
+
   <a href="" target="_blank">
     <img src=""/>
-  </a>  
+  </a>
   <a href="" target="_blank">
     <img src=""/>
   </a>
@@ -72,7 +70,6 @@
   </tr>
 </table> -->
 
- 
 </section>
   </div>
   <br>
