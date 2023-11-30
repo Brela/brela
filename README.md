@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Hi, I'm Clayton Breland, an experienced software engineer with a proven track record of delivering full-stack applications. Drawing on my experience with troubleshooting and repairing F-15 weapons systems in the US Air Force, I offer a valuable perspective in software engineering. My focus is on adhering to best practices, writing efficient code, maintining consitent communication with the team, and diligently working to accomplish the mission at hand.
+<h3 align="center">Hi, I'm Clayton Breland, an experienced software engineer with a proven track record of delivering full-stack applications. Drawing on my experience with troubleshooting and repairing F-15 weapons systems in the US Air Force, I offer a valuable perspective in software engineering. My focus is on adhering to best practices, maintining consitent communication with the team, and diligently working to accomplish the mission at hand.
 <h3 align="center">Please feel free to reach out if you have any questions!</h3>
 <br/>
 <h2 align="center">Languages and Technologies</h2>
@@ -26,11 +26,9 @@
   
 - 🔭 At ChromeLot, we are building a SAAS for car dealerships. Currently working on a photo overlay creator/ editor using the fabricJS React library
 
-- 🌱 Currently learning NextJS testing with Cypress
+- 🌱 Currently researching various test
 
 - 💬 Ask me about **aircraft in the USAF**
-
-<!-- - ⚡ Fun fact: **10,000 years ago**, North America was home to ground sloths the size of elephants, sabertooth cats, and beavers the size of bears. Oh, a fun fact about me? I've been to 32 states :) -->
 
 - 📫 How to reach me **claybreland1@gmail.com**, or via socials below
 
