@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=flat-square&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=cdf998&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <br>
@@ -19,6 +19,7 @@
 
 </p>
 <br/>
+<!-- shields.io badge styles:   flat (default), flat-square, plastic, for-the-badge -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brela&label=Profile%20views&color=0e75b6&style=flat" alt="Brela" /> </p> -->
 <br>
