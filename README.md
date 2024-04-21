@@ -29,8 +29,6 @@
 
 - 🌱 Currently researching various testing libraries
 
-- 💬 Ask me about **aircraft in the USAF**. Jets are awesome!
-
 - Please feel free to reach out if you have any questions! 📫 **claybreland1@gmail.com**
 
 <!-- ## Projects:
