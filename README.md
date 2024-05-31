@@ -1,5 +1,12 @@
 <img src="images/Banner.png" alt="Profile Banner" width="100%">
 
+Hi, I'm Clayton Breland. 
+    <br/>
+- Enthusiastic software developer and former U.S. fighter jet maintenance technician
+- building a SaaS product for car dealershiops at Chrome Lot
+- building a side project where users can create an exam with a simple prompt using the OpenAi API.
+      - check it out: [Brela Exams](https://brela-exams.vercel.app/)
+  
 <br/>
     <br/>
 <h2 align="center">Languages and Technologies</h2>
@@ -17,13 +24,13 @@
 </p>
 <br/>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/clayton-breland/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"
     />
   </a>
   <a href="mailto:claybreland1@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
 </div>
 <!-- shields.io badge styles:   flat (default), flat-square, plastic, for-the-badge -->
