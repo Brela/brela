@@ -1,8 +1,8 @@
 <img src="images/Banner.png" alt="Profile Banner" width="100%">
 
 
-👨🏽‍💻 Enthusiastic software developer/ former U.S. fighter jet maintenance technician 
-🖥️ Building a SaaS product for car dealerships at Chrome Lot 
+👨🏽‍💻 Enthusiastic software developer/ former U.S. fighter jet maintenance technician <br/>
+🖥️ Building a SaaS product for car dealerships at Chrome Lot <br/>
 🌱 Working on side project, [Brela Exams](https://brela-exams.vercel.app/),  where users can create an exam with a simple prompt using openAi API
   
 <br/>
