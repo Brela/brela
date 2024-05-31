@@ -1,7 +1,5 @@
 <img src="images/Banner.png" alt="Profile Banner" width="100%">
 
-**Hi**, I'm Clayton Breland. I **make complex features look simple** with organized code and **streamlined, modern UIs**. Drawing on my experience with troubleshooting and repairing F-15 aircraft in the US Air Force, I offer a valuable perspective in software engineering. My focus is on adhering to best practices, **maintaining consitent communication with the team**, and **diligently working to accomplish the mission at hand**.
-
 <br/>
     <br/>
 <h2 align="center">Languages and Technologies</h2>
@@ -16,20 +14,25 @@
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&labelColor=E2E5E5&color=E2E5E5&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&labelColor=E2E5E5&color=E2E5E5&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&labelColor=E2E5E5&color=E2E5E5&style=plastic&logo=git"/>
-
 </p>
 <br/>
+
+<h2>📫 How to reach me:</h1>
+<div align="left">
+  <a href="https://www.linkedin.com/in/clayton-breland/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"
+    />
+  </a>
+  <a href="mailto:claybreland1@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  </a>
+</div>
 <!-- shields.io badge styles:   flat (default), flat-square, plastic, for-the-badge -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Brela&label=Profile%20views&color=0e75b6&style=flat" alt="Brela" /> </p> -->
 <br>
 <br>
   
-- 🔭 At ChromeLot, we are building a SAAS for car dealerships. Currently working on a photo overlay creator/ editor using the fabricJS React library
-
-- 🌱 Currently researching various testing libraries
-
-- Please feel free to reach out if you have any questions! 📫 **claybreland1@gmail.com**
 
 <!-- ## Projects:
 <table bordercolor="#66b2b2">
