@@ -2,10 +2,9 @@
 
 Hi, I'm Clayton Breland. 
     <br/>
-👨🏽‍💻 Enthusiastic software developer and former U.S. fighter jet maintenance technician
-🖥️ Building a SaaS product for car dealerships at Chrome Lot
-🌱 Creating a side project where users can create an exam with a simple prompt using the OpenAi API.
-      - check it out: [Brela Exams](https://brela-exams.vercel.app/)
+👨🏽‍💻 Enthusiastic software developer and former U.S. fighter jet maintenance technician <br/>
+🖥️ Building a SaaS product for car dealerships at Chrome Lot <br/>
+🌱 Creating a side project, [Brela Exams](https://brela-exams.vercel.app/),  where users can create an exam with a simple prompt using the OpenAi API 
   
 <br/>
     <br/>
